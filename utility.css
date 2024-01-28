@@ -22,14 +22,27 @@
     background-color: #121212;
 }
 .rounded{
-    border-radius: 8px;
+    border-radius: 9px;
 }
 .m-1{
-    margin: 5px;
+    margin: 7px;
 }
 .p-1{
     padding: 20px;
 }
 .img-size-1{
     width: 20px;
+}
+ 
+.rm-link{
+    text-decoration: none;
+}
+.txt-color-1{
+    color: grey;
+}
+.txt-color-1:hover{
+    color: white;
+}
+.txt-color-2{
+    color: black;
 }
