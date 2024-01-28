@@ -1,0 +1,35 @@
+.orange-border{
+    border:2px solid orange;
+    margin:3px;
+}
+.flex{
+    display: flex;
+}
+.justify-center{
+    justify-content: center;
+}
+.item-alignment{
+    text-align: center;
+}
+.bg-black{
+    background-color: black;
+    color: white;
+}
+.invert{
+    filter:invert(1);
+}
+.bg-grey{
+    background-color: #121212;
+}
+.rounded{
+    border-radius: 8px;
+}
+.m-1{
+    margin: 5px;
+}
+.p-1{
+    padding: 20px;
+}
+.img-size-1{
+    width: 20px;
+}
